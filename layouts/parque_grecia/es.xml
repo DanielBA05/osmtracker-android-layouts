@@ -11,10 +11,10 @@
         </row>
         <row>
             <button type="tag" label="PARADA TAXI"/>
-            <button type="tag" label="FUENTE"/>
+            <button type="tag" label="MONUMENTO"/>
         </row>
         <row>
-            <button type="tag" label="PARQUE INFANTIL"/>
+            <button type="tag" label="LAMPARA"/>
             <button type="tag" label="ESTABLECIMIENTO"/>
         </row>
         <row>
