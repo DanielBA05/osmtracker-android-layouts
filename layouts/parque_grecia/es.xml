@@ -7,7 +7,7 @@
         </row>
         <row>
             <button type="tag" label="PASO PEATONAL"/>
-            <button type="tag" label="SEMAFORO"/>
+            <button type="tag" label="HIDRANTE"/>
         </row>
         <row>
             <button type="tag" label="PARADA TAXI"/>
