@@ -7,9 +7,9 @@ Disposición personalizada de botones para OSMTracker utilizada para el trabajo 
 - Banca
 - Árbol
 - Paso peatonal
-- Semáforo
+- Hidrante
 - Parada de taxi
-- Fuente
+- Monumento
 - Parque infantil
 - Establecimiento
 - Acera
