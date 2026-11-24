@@ -2,24 +2,16 @@
 <layouts>
     <layout name="root">
         <row>
-            <button type="tag" label="BANCA"/>
-            <button type="tag" label="ARBOL"/>
+            <button type="tag" label="BANCA BUEN ESTADO"/>
+            <button type="tag" label="BANCA DETERIORADA"/>
         </row>
         <row>
-            <button type="tag" label="PASO PEATONAL"/>
-            <button type="tag" label="HIDRANTE"/>
+            <button type="tag" label="BASURERO BUEN ESTADO"/>
+            <button type="tag" label="BASURERO DETERIORADO"/>
         </row>
         <row>
-            <button type="tag" label="PARADA TAXI"/>
-            <button type="tag" label="MONUMENTO"/>
-        </row>
-        <row>
-            <button type="tag" label="LAMPARA"/>
-            <button type="tag" label="ESTABLECIMIENTO"/>
-        </row>
-        <row>
-            <button type="tag" label="ACERA"/>
-            <button type="tag" label="BASURERO"/>
+            <button type="tag" label="LAMPARA BUEN ESTADO"/>
+            <button type="tag" label="LAMPARA DETERIORADA"/>
         </row>
         <row>
             <button type="textnote" label="NOTA" icon="logo_textnote"/>
