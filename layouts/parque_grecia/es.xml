@@ -6,8 +6,16 @@
             <button type="tag" label="BANCA DETERIORADA"/>
         </row>
         <row>
+            <button type="tag" label=" "/>
+            <button type="tag" label=" "/>
+        </row>
+        <row>
             <button type="tag" label="BASURERO BUEN ESTADO"/>
             <button type="tag" label="BASURERO DETERIORADO"/>
+        </row>
+        <row>
+            <button type="tag" label=" "/>
+            <button type="tag" label=" "/>
         </row>
         <row>
             <button type="tag" label="LAMPARA BUEN ESTADO"/>
