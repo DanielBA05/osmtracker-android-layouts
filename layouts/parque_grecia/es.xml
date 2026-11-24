@@ -14,6 +14,26 @@
             <button type="tag" label="LAMPARA DETERIORADA"/>
         </row>
         <row>
+            <button type="tag" label="HIDRANTE BUEN ESTADO"/>
+            <button type="tag" label="HIDRANTE DETERIORADO"/>
+        </row>
+        <row>
+            <button type="tag" label="MONUMENTO BUEN ESTADO"/>
+            <button type="tag" label="MONUMENTO DETERIORADO"/>
+        </row>
+        <row>
+            <button type="tag" label="PASO PEATONAL BUEN ESTADO"/>
+            <button type="tag" label="PASO PEATONAL DETERIORADO"/>
+        </row>
+        <row>
+            <button type="tag" label="ACERA BUEN ESTADO"/>
+            <button type="tag" label="ACERA DETERIORADA"/>
+        </row>
+        <row>
+            <button type="tag" label="PARADA TAXI BUEN ESTADO"/>
+            <button type="tag" label="PARADA TAXI DETERIORADA"/>
+        </row>
+        <row>
             <button type="textnote" label="NOTA" icon="logo_textnote"/>
             <button type="picture" label="FOTO" icon="logo_camera"/>
         </row>
