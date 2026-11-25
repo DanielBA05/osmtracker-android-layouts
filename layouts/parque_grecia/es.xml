@@ -1,81 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?>
 <layouts>
     <layout name="root">
         <row>
-            <button type="layout" label="BANCA" targetlayout="banca"/>
-            <button type="layout" label="BASURERO" targetlayout="basurero"/>
-        </row>
-        <row>
-            <button type="layout" label="LAMPARA" targetlayout="lampara"/>
-            <button type="layout" label="HIDRANTE" targetlayout="hidrante"/>
-        </row>
-        <row>
-            <button type="layout" label="MONUMENTO" targetlayout="monumento"/>
-            <button type="layout" label="PASO PEATONAL" targetlayout="paso_peatonal"/>
-        </row>
-        <row>
-            <button type="layout" label="ACERA" targetlayout="acera"/>
-            <button type="layout" label="PARADA TAXI" targetlayout="parada_taxi"/>
-        </row>
-        <row>
-            <button type="textnote" label="NOTA" icon="logo_textnote"/>
-            <button type="picture" label="FOTO" icon="logo_camera"/>
-        </row>
-    </layout>
-
-    <layout name="banca">
-        <row>
-            <button type="tag" label="BANCA BUEN ESTADO"/>
+            <button type="tag" label="BANCA BUENA"/>
             <button type="tag" label="BANCA DETERIORADA"/>
+            <button type="tag" label="BASURERO BUENO"/>
         </row>
-    </layout>
-
-    <layout name="basurero">
         <row>
-            <button type="tag" label="BASURERO BUEN ESTADO"/>
             <button type="tag" label="BASURERO DETERIORADO"/>
-        </row>
-    </layout>
-
-    <layout name="lampara">
-        <row>
-            <button type="tag" label="LAMPARA BUEN ESTADO"/>
+            <button type="tag" label="LAMPARA BUENA"/>
             <button type="tag" label="LAMPARA DETERIORADA"/>
         </row>
-    </layout>
-
-    <layout name="hidrante">
         <row>
-            <button type="tag" label="HIDRANTE BUEN ESTADO"/>
+            <button type="tag" label="HIDRANTE BUENO"/>
             <button type="tag" label="HIDRANTE DETERIORADO"/>
+            <button type="tag" label="MONUMENTO BUENO"/>
         </row>
-    </layout>
-
-    <layout name="monumento">
         <row>
-            <button type="tag" label="MONUMENTO BUEN ESTADO"/>
             <button type="tag" label="MONUMENTO DETERIORADO"/>
-        </row>
-    </layout>
-
-    <layout name="paso_peatonal">
-        <row>
-            <button type="tag" label="PASO PEATONAL BUEN ESTADO"/>
+            <button type="tag" label="PASO PEATONAL BUENO"/>
             <button type="tag" label="PASO PEATONAL DETERIORADO"/>
         </row>
-    </layout>
-
-    <layout name="acera">
         <row>
-            <button type="tag" label="ACERA BUEN ESTADO"/>
+            <button type="tag" label="ACERA BUENA"/>
             <button type="tag" label="ACERA DETERIORADA"/>
+            <button type="tag" label="PARADA TAXI BUENA"/>
         </row>
-    </layout>
-
-    <layout name="parada_taxi">
         <row>
-            <button type="tag" label="PARADA TAXI BUEN ESTADO"/>
             <button type="tag" label="PARADA TAXI DETERIORADA"/>
+            <button type="textnote" label="NOTA" icon="logo_textnote"/>
+            <button type="picture" label="FOTO" icon="logo_camera"/>
         </row>
     </layout>
 </layouts>
